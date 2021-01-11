@@ -1,6 +1,10 @@
 # Sistema-Web-Administracion-de-Cocheras
 Proyecto final de carrera realizado para Mutual de Ingeniería de Santa Fe.
 
+El sistema se encarga de administrar las distintas cocheras con sus respectivas tarifas. El diseño fue recomendado por la empresa para seguir la linea estética de sus otros sistemas. 
+
+Se utilizaron las siguientes tecnologías: C# .NET MVC y WEB API, SQL Server, Razor, Javascript, Jquery, Ajax, Html, Bootstrap y Css. 
+
 Login
 
 ![Screenshot_1](https://user-images.githubusercontent.com/45102218/104094892-7ce40600-5272-11eb-8be1-b74957f4089e.png)
